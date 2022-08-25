@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1aad557-ec11-4d3a-88a2-e0ae7888351d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RepeatingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
+    <list default="true" id="e1aad557-ec11-4d3a-88a2-e0ae7888351d" name="Changes" comment="sort by frequency">
+      <change afterPath="$PROJECT_DIR$/src/com/buycoinsellcoin/SortByFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RepeatingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/buycoinsellcoin/RepeatingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortByFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/buycoinsellcoin/LongestCommonSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/buycoinsellcoin/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,31 +40,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.By Scope"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.buycoinsellcoin" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.buycoinsellcoin" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RepeatingNumber">
+  <component name="RunManager" selected="Application.SortByFrequency">
     <configuration name="RepeatingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepeatingNumber" />
+      <option name="MAIN_CLASS_NAME" value="com.buycoinsellcoin.RepeatingNumber" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortByFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buycoinsellcoin.SortByFrequency" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSum" />
+      <option name="MAIN_CLASS_NAME" value="com.buycoinsellcoin.TwoSum" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortByFrequency" />
         <item itemvalue="Application.RepeatingNumber" />
         <item itemvalue="Application.TwoSum" />
       </list>
@@ -90,6 +98,21 @@
       <option name="presentableId" value="Default" />
       <updated>1657711799175</updated>
     </task>
+    <task id="LOCAL-00001" summary="first repeating number">
+      <created>1660905707118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660905707118</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sort by frequency">
+      <created>1661422534900</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661422534901</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +125,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first repeating number" />
+    <MESSAGE value="sort by frequency" />
+    <option name="LAST_COMMIT_MESSAGE" value="sort by frequency" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

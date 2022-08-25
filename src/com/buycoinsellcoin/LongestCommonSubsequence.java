@@ -1,7 +1,9 @@
+package com.buycoinsellcoin;
+
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class SortByFrequency {
+public class LongestCommonSubsequence {
     //Sort by frequency
     public static void main(String[] args) {
 
