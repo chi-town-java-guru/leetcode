@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e1aad557-ec11-4d3a-88a2-e0ae7888351d" name="Changes" comment="one line prime number check">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/buycoinsellcoin/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/buycoinsellcoin/PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimeNumber">
+  <component name="RunManager" selected="Application.SortByFrequency">
     <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.buycoinsellcoin.PrimeNumber" />
       <module name="Leetcode" />
@@ -99,8 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.SortByFrequency" />
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.RepeatingNumber" />
         <item itemvalue="Application.TwoSum" />
       </list>
