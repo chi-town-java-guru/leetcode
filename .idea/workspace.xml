@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e1aad557-ec11-4d3a-88a2-e0ae7888351d" name="Changes" comment="one line prime number check">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/buycoinsellcoin/RepeatingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/buycoinsellcoin/RepeatingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/buycoinsellcoin/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/buycoinsellcoin/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +39,8 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -61,7 +65,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortByFrequency">
+  <component name="RunManager" selected="Application.RepeatingNumber">
     <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.buycoinsellcoin.PrimeNumber" />
       <module name="Leetcode" />
@@ -98,10 +102,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortByFrequency" />
-        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.RepeatingNumber" />
         <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.SortByFrequency" />
+        <item itemvalue="Application.PrimeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661432627603</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="one line prime number check">
+      <created>1661509639947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661509639947</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
